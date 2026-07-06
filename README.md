@@ -1,6 +1,6 @@
 # SecureChat - Encrypted Chat Application
 
-A production-grade, multi-client encrypted chat application built with Python for the SyntecxHub Cybersecurity Internship.
+A production-grade, multi-client encrypted chat application built with Python using AES-128-CBC encryption via Fernet.
 
 ## Features
 
