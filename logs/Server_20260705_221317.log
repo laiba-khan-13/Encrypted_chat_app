@@ -1,0 +1,11 @@
+2026-07-05 22:13:17 | Server | INFO | Server started on 127.0.0.1:5555
+2026-07-05 22:18:09 | Server | INFO | New connection from 127.0.0.1:61980
+2026-07-05 22:18:09 | Server | INFO | alice joined from 127.0.0.1
+2026-07-05 22:19:06 | Server | INFO | New connection from 127.0.0.1:61995
+2026-07-05 22:19:06 | Server | INFO | bob joined from 127.0.0.1
+2026-07-05 22:23:46 | Server | INFO | [alice] hello bob
+2026-07-05 22:50:16 | Server | INFO | Shutdown signal received
+2026-07-05 22:50:16 | Server | INFO | Shutting down server...
+2026-07-05 22:50:16 | Server | INFO | bob disconnected
+2026-07-05 22:50:16 | Server | INFO | Server stopped
+2026-07-05 22:50:16 | Server | INFO | alice disconnected

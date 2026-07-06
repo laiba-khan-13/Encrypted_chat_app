@@ -1,0 +1,19 @@
+2026-07-05 22:53:34 | Server | INFO | Server started on 127.0.0.1:5555
+2026-07-05 22:55:06 | Server | INFO | New connection from 127.0.0.1:62312
+2026-07-05 22:55:06 | Server | INFO | alice joined from 127.0.0.1
+2026-07-05 22:55:21 | Server | INFO | New connection from 127.0.0.1:62313
+2026-07-05 22:55:21 | Server | INFO | bob joined from 127.0.0.1
+2026-07-05 22:57:21 | Server | INFO | [bob] alice hlw
+2026-07-05 22:57:44 | Server | INFO | [alice] hey
+2026-07-05 23:18:06 | Server | INFO | alice promoted to admin
+2026-07-05 23:18:22 | Server | INFO | Broadcast by alice: Server will restart soon
+2026-07-05 23:18:30 | Server | INFO | bob muted by alice
+2026-07-05 23:19:01 | Server | INFO | bob unmuted by alice
+2026-07-05 23:19:10 | Server | INFO | [bob] hlw
+2026-07-05 23:19:18 | Server | INFO | bob disconnected
+2026-07-05 23:19:18 | Server | INFO | bob disconnected
+2026-07-05 23:19:18 | Server | INFO | bob kicked by alice: Kicked by admin
+2026-07-05 23:19:31 | Server | INFO | alice disconnected
+2026-07-05 23:25:01 | Server | INFO | Shutdown signal received
+2026-07-05 23:25:01 | Server | INFO | Shutting down server...
+2026-07-05 23:25:01 | Server | INFO | Server stopped

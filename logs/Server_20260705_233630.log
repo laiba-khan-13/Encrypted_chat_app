@@ -1,0 +1,31 @@
+2026-07-05 23:36:30 | Server | INFO | Server started on 127.0.0.1:5555
+2026-07-05 23:37:20 | Server | INFO | New connection from 127.0.0.1:62569
+2026-07-05 23:37:20 | Server | INFO | yura joined from 127.0.0.1
+2026-07-05 23:37:49 | Server | INFO | New connection from 127.0.0.1:62572
+2026-07-05 23:37:49 | Server | INFO | hira joined from 127.0.0.1
+2026-07-05 23:38:17 | Server | INFO | [hira] Hello yura! Welcome to our secure chat
+2026-07-05 23:41:03 | Server | INFO | [yura] Hi hira Nice to see this encryption working.
+2026-07-05 23:43:23 | Server | INFO | [hira] Let me check who is online
+2026-07-05 23:44:10 | Server | INFO | [hira] I will send you a private message.
+2026-07-05 23:57:30 | Server | INFO | [hira] Let me show an action.
+2026-07-06 00:00:20 | Server | INFO | [hira] How long has the server been running?
+2026-07-06 00:00:36 | Server | INFO | [hira] Let me see all available commands.
+2026-07-06 00:01:10 | Server | INFO | [hira] now test admin features.
+2026-07-06 00:01:20 | Server | INFO | hira promoted to admin
+2026-07-06 00:01:38 | Server | INFO | [hira] send a broadcast to everyone.
+2026-07-06 00:01:53 | Server | INFO | Broadcast by hira: Attention: This is a system test message.
+2026-07-06 00:02:16 | Server | INFO | [hira] Let me mute yura temporarily.
+2026-07-06 00:02:43 | Server | INFO | yura muted by hira
+2026-07-06 00:03:48 | Server | INFO | [hira] Okay yura I'll unmute you now.
+2026-07-06 00:04:02 | Server | INFO | yura unmuted by hira
+2026-07-06 00:05:03 | Server | INFO | [yura] Wow! Now I can speak again.
+2026-07-06 00:05:23 | Server | INFO | [hira] Now I will kick you for testing.
+2026-07-06 00:07:08 | Server | INFO | yura disconnected
+2026-07-06 00:07:08 | Server | INFO | yura disconnected
+2026-07-06 00:07:08 | Server | INFO | yura kicked by hira: You have been removed for demo purposes.
+2026-07-06 00:07:44 | Server | INFO | [hira] yura has been kicked. Let me check users now.
+2026-07-06 00:08:15 | Server | INFO | [hira] That concludes the demo.
+2026-07-06 00:08:24 | Server | INFO | hira disconnected
+2026-07-06 00:08:45 | Server | INFO | Shutdown signal received
+2026-07-06 00:08:45 | Server | INFO | Shutting down server...
+2026-07-06 00:08:45 | Server | INFO | Server stopped

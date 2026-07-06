@@ -1,0 +1,4 @@
+2026-07-05 21:41:22 | Server | INFO | Server started on 127.0.0.1:5555
+2026-07-05 21:42:39 | Server | INFO | Shutdown signal received
+2026-07-05 21:42:39 | Server | INFO | Shutting down server...
+2026-07-05 21:42:39 | Server | INFO | Server stopped
